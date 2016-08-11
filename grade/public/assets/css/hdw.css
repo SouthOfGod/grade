@@ -1,0 +1,7 @@
+/* CSS Document */
+* { padding:0; margin:0;}
+/*body { font-size:12px; padding:100px;}*/
+.select { width:300px; height:400px; padding:5px;}
+.content { float:left; text-align:center; margin-right:10px;}
+span { display:block; width:100px; background:#eee; cursor:pointer; border:1px solid #ccc; padding:5px 0; margin:5px 0 0 100px;}
+.aa{min-width:100px; height:28px; line-height:28px; border:1px solid #D8D8D8; background:#ffffff; border-radius:4px; padding:0;}
